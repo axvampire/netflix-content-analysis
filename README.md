@@ -1,5 +1,11 @@
 # Netflix Content Analysis
 
+### It can be access quickly here:
+
+# https://netflix-content-analysis.onrender.com
+
+# Please allow aprox 1 minute for free service on Render.com to initialize.
+
 This project provides a comprehensive analysis of Netflix content based on various metrics. It uses data visualizations to explore trends in content over time, genres, ratings, and other characteristics, offering valuable insights into Netflix's content strategy.
 
 ## Features
